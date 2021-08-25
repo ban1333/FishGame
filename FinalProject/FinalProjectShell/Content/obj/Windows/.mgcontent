@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/hilightFont.spritefont</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Fonts/regularFont.spritefont</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/BackgroundBeginner.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Bat.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Coin Silver.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/Diamond.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/GuppyDead.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/GuppyHungry.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/GuppyNormal.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/helpImage.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/PredatorDead.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/PredatorHungry.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Images/PredatorNormal.png</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Sounds/bloop.wav</File>
+    <File>C:/Users/David/Desktop/fishGame/FinalProjectTemplate/FinalProjectTemplate/FinalProjectShell/Content/Sounds/gone_fishin.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
